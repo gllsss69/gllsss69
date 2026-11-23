@@ -78,10 +78,6 @@
           {
             "icon": "brand:googlegemini",
             "label": "Gemini"
-          },
-          {
-            "icon": "brand:github",
-            "label": ""
           }
         ]
       },
