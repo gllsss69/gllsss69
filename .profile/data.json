@@ -1,0 +1,382 @@
+{
+ "key": "ac8af3b4",
+ "stars": 6,
+ "contributions": 210,
+ "repos": 26,
+ "followers": 7,
+ "languages": [
+  [
+   "C#",
+   486557
+  ],
+  [
+   "Java",
+   99164
+  ],
+  [
+   "JavaScript",
+   48769
+  ],
+  [
+   "CSS",
+   22895
+  ],
+  [
+   "HTML",
+   20179
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 23,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 6
+ },
+ "pins": [
+  {
+   "name": "SpotGet",
+   "url": "https://github.com/gllsss69/SpotGet",
+   "text": "A keyless Spotify track downloader and metadata extractor",
+   "fork": false,
+   "stars": 4,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "termlrc",
+   "url": "https://github.com/gllsss69/termlrc",
+   "text": "lyrics in terminal",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "SpotGet",
+   "url": "https://github.com/gllsss69/SpotGet",
+   "text": "A keyless Spotify track downloader and metadata extractor",
+   "fork": false,
+   "stars": 4,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "termlrc",
+   "url": "https://github.com/gllsss69/termlrc",
+   "text": "lyrics in terminal",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "MaterialFlow",
+   "url": "https://github.com/gllsss69/MaterialFlow",
+   "text": "VideoAdaptation",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "gllsss69",
+   "url": "https://github.com/gllsss69/gllsss69",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "java_lab4",
+   "url": "https://github.com/gllsss69/java_lab4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "java_lab3",
+   "url": "https://github.com/gllsss69/java_lab3",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "java_lab2",
+   "url": "https://github.com/gllsss69/java_lab2",
+   "text": "OOP java lab2",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "SpriteAnim",
+   "url": "https://github.com/gllsss69/SpriteAnim",
+   "text": "Lab_13",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "RadarApp",
+   "url": "https://github.com/gllsss69/RadarApp",
+   "text": "Lab_12",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "WordSwapper",
+   "url": "https://github.com/gllsss69/WordSwapper",
+   "text": "Lab_11",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "DynamicAlgorithm",
+   "url": "https://github.com/gllsss69/DynamicAlgorithm",
+   "text": "Lab_10",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "SlidingWindowAlgorithm",
+   "url": "https://github.com/gllsss69/SlidingWindowAlgorithm",
+   "text": "homework",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Run-LengthEncodingAlgorithm",
+   "url": "https://github.com/gllsss69/Run-LengthEncodingAlgorithm",
+   "text": "homework",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "AnagramAlgorithm",
+   "url": "https://github.com/gllsss69/AnagramAlgorithm",
+   "text": "homework",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Matix",
+   "url": "https://github.com/gllsss69/Matix",
+   "text": "AudioPlayer",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "lab_9",
+   "url": "https://github.com/gllsss69/lab_9",
+   "text": "lab_9",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "TextAnalyzer",
+   "url": "https://github.com/gllsss69/TextAnalyzer",
+   "text": "lab_8",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "CountObjects",
+   "url": "https://github.com/gllsss69/CountObjects",
+   "text": "homework winforms",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "GreetingGenerator",
+   "url": "https://github.com/gllsss69/GreetingGenerator",
+   "text": "homework win forms",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Lab_7",
+   "url": "https://github.com/gllsss69/Lab_7",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "DeliveryService",
+   "url": "https://github.com/gllsss69/DeliveryService",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Lab_6",
+   "url": "https://github.com/gllsss69/Lab_6",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "students",
+   "url": "https://github.com/gllsss69/students",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "guessNumberGame",
+   "url": "https://github.com/gllsss69/guessNumberGame",
+   "text": "homework",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "searchJob",
+   "url": "https://github.com/gllsss69/searchJob",
+   "text": "lab 1-5 and practice",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "FirstRepo",
+   "url": "https://github.com/gllsss69/FirstRepo",
+   "text": "my first repo on github",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  }
+ ]
+}
