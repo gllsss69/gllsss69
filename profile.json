@@ -43,12 +43,16 @@
         "label": "Fullstack \"developer\""
       },
       {
+        "icon": "terminal",
+        "label": "Just a tech"
+      },
+      {
         "icon": "code",
         "label": "I’m doing nothing"
       },
       {
-        "icon": "menu_book",
-        "label": "I love visual novels"
+        "icon": "favorite",
+        "label": "I love visual novels and music"
       }
     ]
   },
